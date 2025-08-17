@@ -44,7 +44,7 @@ EMS/
 
 1. Clone the repository:
 
-git clone https://github.com/JasshanB/EMS.git
+  git clone https://github.com/JasshanB/EMS.git
 
 2. Import the project in your IDE (VS Code / IntelliJ / Eclipse).
 
